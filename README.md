@@ -1,3 +1,3 @@
 # React Shop Portfolio Project
 
-[Demo](http://DashaTkachuk.github.io/food-project).
+[Demo](http://dashatkachuk.github.io/food-project).
