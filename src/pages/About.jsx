@@ -1,5 +1,5 @@
 function About() {
-    return;
+    return <h1>about</h1>;
 }
 
 export { About };
